@@ -16,3 +16,7 @@
 - #1 2 How does React work?
 - #2 0 Creating your first React Component
 - #2 1 Reusable Components with JSX + Props
+
+**✔ 2020-03-02**
+
+- #2 2 Dynamic Component Generation
