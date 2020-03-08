@@ -20,3 +20,8 @@
 **✔ 2020-03-02**
 
 - #2 2 Dynamic Component Generation
+
+**✔ 2020-03-08**
+
+- #2 3 map Recap
+- #2 4 Protection with PropTypes
